@@ -6,4 +6,4 @@
 g++ -std=c++11 main.cpp
 ```
 ## Now working on the Website MVP
-You can try it on my [Github Pages](https://florianmgedeon.github.io/artguess/).
+You can try it on my [Github Pages](https://florianmgedeon.github.io/artguess/){:target="_blank"}.
